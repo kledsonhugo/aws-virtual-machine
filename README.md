@@ -67,7 +67,7 @@ O Amazon VPC pode ser utilizado para você iniciar recursos da AWS em uma rede v
 
 11. Na seção **Detalhes avançados** adicione o texto abaixo no campo **Dados do usuário - optional**.
 
-    > **Note**: Esse passo instala e configura automaticamente o WebServer Apache na instância EC2 e carrega a página web estática html disponível no repositório GitHub [https://github.com/kledsonhugo/app-static-site-ec2/tree/main/app](https://github.com/kledsonhugo/app-static-site-ec2/tree/main/app).
+    > **Note**: Esse passo instala e configura automaticamente o WebServer Apache na instância EC2 e carrega a página web estática html disponível no repositório GitHub [https://github.com/kledsonhugo/app-staticsite](https://github.com/kledsonhugo/app-staticsite).
 
     > **Note**: Mantenha as demais opções padrões.
 
