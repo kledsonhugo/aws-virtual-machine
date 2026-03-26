@@ -96,7 +96,7 @@ O Amazon VPC pode ser utilizado para você iniciar recursos da AWS em uma rede v
 
 13. Clique em **Visualizar instâncias**.
 
-14. Verifique sua nova instância na lista e aguarde até que o campo **Verificação de status** esteja com o texto **2/2 verificações aprovadas**, conforme ilustração abaixo de exemplo.
+14. Verifique sua nova instância na lista e aguarde até que o campo **Verificação de status** esteja com o texto **3/3 verificações aprovadas**, conforme ilustração abaixo de exemplo.
 
     > **Note**: A cada 1 minuto você pode atualizar a página para acompanhar a evolução da **Verificação de status**.
 
@@ -106,7 +106,7 @@ O Amazon VPC pode ser utilizado para você iniciar recursos da AWS em uma rede v
 
 16. Abra uma nova aba do seu navegador e acesse a página **http://Endereço-IP** ajustando a url com o valor do endereço IP copiado do passo anterior.
 
-    > **Note**: Usando o exemplo da imagem do passo 14, a url da página web é **http://54.82.177.236**. Ajuste a url conforme o endereço IP da sua instância EC2.
+    > **Note**: Usando o exemplo da imagem do passo 14, a url da página web é **http://3.82.155.143**. Ajuste a url conforme o endereço IP da sua instância EC2.
 
     > **Note**: Não use **https://**, pois a segurança da página web não é uma exigência para esse laboratório.
 
